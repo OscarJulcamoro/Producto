@@ -68,15 +68,6 @@ if(isset($_GET['opc'])){
 }
 
 
-if(isset($_GET['codigo'])){
-    $codigo=htmlspecialchars($_GET['codigo']);
-
-
-
-}
-
-
-
 
 
 
