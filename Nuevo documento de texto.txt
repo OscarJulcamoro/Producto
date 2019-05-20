@@ -1,2 +1,11 @@
+git clone url
 
-kjk
+git add -A 
+git commit -m "Comentario"
+git push origin master
+
+
+git pull //descargar
+
+git log  //ver los comentarios
+git status //cosas nuevas
